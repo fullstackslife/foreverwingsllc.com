@@ -1,0 +1,11 @@
+{
+  "domain": "ForeverWingsLLC.com",
+  "theme": "default",
+  "features": [],
+  "integrations": {
+    "brevo": {
+      "enabled": false,
+      "form_id": ""
+    }
+  }
+}
